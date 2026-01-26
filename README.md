@@ -20,7 +20,7 @@
 ---
 
 ### Focus
-- 📍 Based in Belarus • Target role: **Junior Frontend Developer**
+- 📍 Based in Belarus • Target role: **Frontend Developer**
 - 🧠 I enjoy turning messy requirements into clean structure: UI + logic + maintainable code
 - 📱 Building **CalcDash** (React Native + Java backend): auth, timed tasks, multiple game modes
 - 👥 Team lead experience (3 people): planning, estimation, sprint workflow, quality control, demos
@@ -28,8 +28,8 @@
 ---
 
 ### Open to
-- Junior Frontend roles in Belarus  
-- Paid internships with a clear path to a full-time offer
+- Frontend roles in Belarus  
+- Open to a part-time internship (flexible schedule) with a transition into a full-time role.
 
 ---
 
