@@ -1,24 +1,24 @@
-# Привет! Я Алина Волоха — начинающий фронтенд-разработчик
+# Hi, I'm Alina Volokha — an aspiring Frontend Developer
 
-🎓 Учусь на программиста (БГУ Мех-Мат / 3 курс)  
-💻 Изучаю фронтенд и готовлюсь к фуллстек разработке  
-🛠 Работаю с React, Redux, Tailwind, JavaScript и Java  
-📚 Стараюсь собирать практику в проектах, pet-проектах и лабах
-
----
-
-## 💡 О чём мой GitHub
-
-📌 **Фронтенд**: React, JS, Tailwind, дизайн  
-🔧 **Лабы**: Python, Java, C++, MSSQL, Bash  
-📱 **Курсовая**: React Native + Java backend  
-🧪 **Pet-проекты**: игры и интерфейсы на чистом JS
-
-📁 Навигатор по репозиториям — [portfolio](https://github.com/alnvoloha/portfolio)
+🎓 Studying Computer Science (3rd year, BSU, Faculty of Mechanics and Mathematics)  
+💻 Focused on frontend, working towards full-stack development  
+🛠 Building with React, Redux, Tailwind, JavaScript, and Java  
+📚 Practicing through projects, pet experiments, and university labs
 
 ---
 
-## 🧰 Технологии и инструменты
+## 💡 What's on my GitHub
+
+📌 **Frontend**: React, JS, Tailwind, UI/UX practice  
+🔧 **Labs**: Python, Java, C++, MSSQL, Bash  
+📱 **Course project**: React Native + Java backend  
+🧪 **Pet projects**: games and UI components in vanilla JS
+
+📁 Project overview — [portfolio](https://github.com/alnvoloha/portfolio)
+
+---
+
+## 🧰 Tech & Tools
 
 React, Redux, JavaScript, Tailwind, HTML, CSS  
 Java (Spring Boot), Python, MSSQL, Bash  
@@ -26,6 +26,6 @@ Git, GitHub, VS Code, Figma
 
 ---
 
-## 📫 Контакты
+## 📫 Contact
 
-[Telegram](https://t.me/alinavoloha) | [LinkedIn](https://linkedin.com/in/alina-volokha) | alinavalokha@gmail.com
+[Telegram](https://t.me/alinavoloha) • [LinkedIn](https://linkedin.com/in/alina-volokha) • alinavalokha@gmail.com
