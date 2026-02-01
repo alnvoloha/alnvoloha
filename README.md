@@ -105,13 +105,6 @@
 
 ## Stats
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alnvoloha&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45%2Cff512f%2Cf09819%2C00c9ff%2C92fe9d&cache_seconds=21600"
-       alt="GitHub stats" />
-  <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alnvoloha&layout=donut&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=45%2Cff512f%2Cf09819%2C00c9ff%2C92fe9d&cache_seconds=21600"
-       alt="Top languages" />
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=alnvoloha&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,ff512f,f09819,00c9ff,92fe9d" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnvoloha&layout=donut&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=45,ff512f,f09819,00c9ff,92fe9d" /> </p>
 
 
