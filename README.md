@@ -26,6 +26,11 @@
 
 ---
 
+### Navigation
+[![Portfolio](https://img.shields.io/badge/Portfolio%20Navigator-111111?style=flat&logo=github&logoColor=ffffff)](https://alnvoloha.github.io/portfolio/)
+
+---
+
 ### Open to
 - Frontend roles in Belarus  
 - Open to a part-time internship (flexible schedule) with a transition into a full-time role.
@@ -85,9 +90,6 @@
 [![ Java ](https://img.shields.io/badge/Java%20Labs-111111?style=flat&logo=openjdk&logoColor=ffffff)](https://github.com/alnvoloha/java-practice-projects)
 [![ Bash ](https://img.shields.io/badge/Bash%20%2F%20Linux-111111?style=flat&logo=linux&logoColor=FCC624)](https://github.com/alnvoloha/linux-bash)
 
-**Navigation** 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio%20Navigator-111111?style=flat&logo=github&logoColor=ffffff)](https://github.com/alnvoloha/portfolio)
 
 <details>
   
