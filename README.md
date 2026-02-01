@@ -107,5 +107,4 @@
 
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=alnvoloha&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,ff512f,f09819,00c9ff,92fe9d" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnvoloha&layout=donut&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=45,ff512f,f09819,00c9ff,92fe9d" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alnvoloha&" alt="alnvoloha" /></p>
 
