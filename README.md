@@ -22,7 +22,6 @@
 ### Focus
 - 📍 Based in Belarus • Target role: **Frontend Developer**
 - 🧠 I enjoy turning messy requirements into clean structure: UI + logic + maintainable code
-- 📱 Building **CalcDash** (React Native + Java backend): auth, timed tasks, multiple game modes
 - 👥 Team lead experience (3 people): planning, estimation, sprint workflow, quality control, demos
 
 ---
@@ -72,17 +71,19 @@
 
 **Full-Stack / Mobile** 
 
-[![CalcDash](https://img.shields.io/badge/CalcDash-111111?style=flat&logo=react&logoColor=61DAFB)](PUT_LINK_HERE)
+[![CalcDash](https://img.shields.io/badge/CalcDash-111111?style=flat&logo=react&logoColor=61DAFB)](https://github.com/alnvoloha/CalcDash) (in progress)
 
 **Frontend Practice** 
 
-[![React Projects](https://img.shields.io/badge/React%20Projects-111111?style=flat&logo=react&logoColor=61DAFB)](PUT_LINK_HERE)
-[![Redux Practice](https://img.shields.io/badge/Redux%20Practice-111111?style=flat&logo=redux&logoColor=764ABC)](PUT_LINK_HERE)
-[![JS Mini Apps](https://img.shields.io/badge/JS%20Mini%20Apps-111111?style=flat&logo=javascript&logoColor=F7DF1E)](PUT_LINK_HERE)
+[![React Projects](https://img.shields.io/badge/React%20Projects-111111?style=flat&logo=react&logoColor=61DAFB)](https://github.com/alnvoloha/react-projects)
+[![Web design](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26)](https://github.com/alnvoloha/web-design)
+[![JS Mini Apps](https://img.shields.io/badge/JS%20Mini%20Apps-111111?style=flat&logo=javascript&logoColor=F7DF1E)](https://github.com/alnvoloha/js-mini-apps)
 
-**University Work**  
+**Other languages**  
 
-[![Labs](https://img.shields.io/badge/University%20Labs-111111?style=flat&logo=github&logoColor=ffffff)](PUT_LINK_HERE)
+[![MSSQL](https://img.shields.io/badge/MSSQL%20Labs-111111?style=flat&logo=microsoftsqlserver&logoColor=CC2927)](https://github.com/alnvoloha/sql-mssql)
+[![Java](https://img.shields.io/badge/Java%20Labs-111111?style=flat&logo=openjdk&logoColor=ffffff)](https://github.com/alnvoloha/java-practice-projects)
+[![Bash](https://img.shields.io/badge/Bash%20%2F%20Linux-111111?style=flat&logo=linux&logoColor=FCC624)](https://github.com/alnvoloha/linux-bash)
 
 **Navigation** 
 
@@ -97,14 +98,6 @@
 - 🌐 Worked with APIs (fetch/axios): loading states, offline handling, error cases (404, no connection)
 - 🧩 Refactored and fixed a complex codebase (1000+ lines) and made it work reliably
 - 👥 Led a 3-person team using Scrum/Kanban practices: planning, estimation, burndown, retrospectives
-
-  <summary><b>📚 University Labs</b></summary>
-  
-  [![Python Labs](https://img.shields.io/badge/Python%20Labs-111111?style=flat&logo=python&logoColor=3776AB)](PUT_YOUR_REPO_LINK_HERE)
-  [![Java Labs](https://img.shields.io/badge/Java%20Labs-111111?style=flat&logo=openjdk&logoColor=ffffff)](PUT_YOUR_REPO_LINK_HERE)
-  [![C++ Labs](https://img.shields.io/badge/C%2B%2B%20Labs-111111?style=flat&logo=c%2B%2B&logoColor=00599C)](PUT_YOUR_REPO_LINK_HERE)
-  [![MSSQL Labs](https://img.shields.io/badge/MSSQL%20Labs-111111?style=flat&logo=microsoftsqlserver&logoColor=CC2927)](PUT_YOUR_REPO_LINK_HERE)
-  [![Bash Labs](https://img.shields.io/badge/Bash%20%2F%20Linux-111111?style=flat&logo=linux&logoColor=FCC624)](PUT_YOUR_REPO_LINK_HERE)
 
 </details>
 
