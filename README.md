@@ -86,8 +86,8 @@
 
 **Other languages**  
 
-[![ MSSQL ](https://img.shields.io/badge/MSSQL%20Labs-111111?style=flat&logo=microsoftsqlserver&logoColor=CC2927)](https://github.com/alnvoloha/sql-mssql)
-[![ Java ](https://img.shields.io/badge/Java%20Labs-111111?style=flat&logo=openjdk&logoColor=ffffff)](https://github.com/alnvoloha/java-practice-projects)
+[![ MSSQL ](https://img.shields.io/badge/MSSQL-111111?style=flat&logo=microsoftsqlserver&logoColor=CC2927)](https://github.com/alnvoloha/sql-mssql)
+[![ Java ](https://img.shields.io/badge/Java-111111?style=flat&logo=openjdk&logoColor=ffffff)](https://github.com/alnvoloha/java-practice-projects)
 [![ Bash ](https://img.shields.io/badge/Bash%20%2F%20Linux-111111?style=flat&logo=linux&logoColor=FCC624)](https://github.com/alnvoloha/linux-bash)
 
 
